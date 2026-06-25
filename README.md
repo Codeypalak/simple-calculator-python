@@ -15,4 +15,5 @@ A command-line calculator built in Python that performs basic arithmetic operati
 3. Enter calculations in format: `num1 operator num2` e.g. `8 - 4`
 4. Use commands: `history`, `clear`, `exit`
 
-## Example
+## Author
+Made with ❤️ by Palak
